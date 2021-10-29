@@ -1,3 +1,6 @@
+### 2021-10-29 (Build 20211029-172859.e16aa2ab)
+- **[BUG]** We fixed a backwards-incompatible data change that resulted in old recordings failing to load.
+
 ### 2021-10-29 (Build 20211029-091740.107e4267)
 - **[FEAT]** We've added a panel where you can view useful metadata about your recording.
 
