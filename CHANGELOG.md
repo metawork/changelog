@@ -1,3 +1,8 @@
+### 2021-12-01 (Build 20211201-033857.3ef09d51)
+- **[FEAT]** You can now share recordings from your local machine to anyone else who is also running Metawork. Just click "Share" while viewing a recording, copy the link, send that link to a friend or coworker, and they will be able to view that recording on their local system.
+![Share Recording Header](https://static.metawork.com/images/share_recording_header.png)
+![Share Recording Modal](https://static.metawork.com/images/share_recording_modal.png)
+
 ### 2021-11-09 (Build 20211109-005902.15cf6819)
 - **[FEAT]** You can now view all of the environment variables that were captured when the process was started.
 
