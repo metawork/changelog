@@ -1,3 +1,9 @@
+### 2021-12-20 (Build 20211220-190655.d79ded92)
+- **[FEAT]** The Recording Viewer now displays frame-level timing information.
+![Timing Modal](https://static.metawork.com/images/frame_timing_information.png)
+- **[MISC]** We made minor performance optimizations.
+- **[FEAT]** The Home and Explore pages now live-reload data.
+
 ### 2021-12-01 (Build 20211201-033857.3ef09d51)
 - **[FEAT]** You can now share recordings from your local machine to anyone else who is also running Metawork. Just click "Share" while viewing a recording, copy the link, send that link to a friend or coworker, and they will be able to view that recording on their local system.
 ![Share Recording Header](https://static.metawork.com/images/share_recording_header.png)
